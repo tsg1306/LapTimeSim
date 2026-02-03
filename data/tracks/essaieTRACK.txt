@@ -1,0 +1,6 @@
+Test	Test
+Straight	250.0	0.0
+Right	334.0	100.0
+Straight	500.0	0.0
+Right	147.0	50.0
+Straight	250.0	0.0
