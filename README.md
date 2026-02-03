@@ -6,7 +6,7 @@
 A physics-based lap time simulation tool that models vehicle dynamics to predict optimal lap times on racing circuits. Originally developed as part of a TIPE (Travaux d'Initiative Personnelle Encadrés) project.
 
 <p align="center">
-  <img src="docs/circuit_speed_map.png" alt="Circuit Speed Map" width="600"/>
+  <img src="docs/circuit_speed_map.jfif" alt="Circuit Speed Map" width="600"/>
 </p>
 
 ## 📋 Table of Contents
