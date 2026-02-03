@@ -7,6 +7,7 @@ A physics-based lap time simulation tool that models vehicle dynamics to predict
 
 <p align="center">
   <img src="docs/circuit_speed_map.jfif" alt="Circuit Speed Map" width="600"/>
+  <img src="docs/circuit_speed_map_colored.png" alt="Circuit Speed Map" width="600"/>
 </p>
 
 ## 📋 Table of Contents
